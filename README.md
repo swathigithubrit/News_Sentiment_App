@@ -1,1 +1,1 @@
-# News_Sentiment_App
+# news_sentiment_app
